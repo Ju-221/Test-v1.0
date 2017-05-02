@@ -1,3 +1,4 @@
 # Test-v1.0
 Another C++ test
-Please skip this file.
+Data stuctures, Variable managment and so on...
+Please skip this Repository.
